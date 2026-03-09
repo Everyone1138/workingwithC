@@ -6,7 +6,7 @@ int main() {
     char grade = 'A';
 
     printf(" Age: %d\n", age);
-    printf(" Height: %d\n", height);
+    printf(" Height: %d\n", height);    
     printf(" Grade: %d\n", grade);
 
     return 0;
